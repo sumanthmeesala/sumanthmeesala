@@ -7,9 +7,9 @@
 
 - 🌱 I’m experienced in backend development using **Java,Spring Boot,Hibernates,JPA,Git,MySQL,RestAPI,Microservices,Mavan,Grafana**
 
-- 🌱 I’m currently learning **Spring Boot, Json, React, AWS, Docker**
+- 🌱 I’m currently learning **Json, React, AWS, Docker**
 
-- 💬 Ask me about **Java, Python, SQL, Data Structures and Algorithms**
+- 💬 Ask me about **Java, Spring Boot, Hibernates, JPA, Microservices, Python, SQL, Data Structures and Algorithms**
 
 - 📫 How to reach me **sumanthm733311@gmail.com**
 
